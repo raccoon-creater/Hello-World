@@ -3,4 +3,4 @@
     - testA
     - testB
     - testC
-    -test-test^^
+    -test-test
